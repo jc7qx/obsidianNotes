@@ -1,0 +1,93 @@
+{
+  "main": {
+    "id": "0dab1800194a96d6",
+    "type": "split",
+    "children": [
+      {
+        "id": "261e8a8ba2fee61e",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b542452d08181354",
+    "type": "split",
+    "children": [
+      {
+        "id": "f3450cd60e40a72a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "67ee1442f6c26372",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "605c5569f8086d89",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 371
+  },
+  "right": {
+    "id": "319104bb6bcd6718",
+    "type": "split",
+    "children": [
+      {
+        "id": "cf98e73aa137489e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0b428a280ff940d4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "261e8a8ba2fee61e",
+  "lastOpenFiles": [
+    "Security in Intelligent Transport Systems for Smart Cities From Theory to Practice.md",
+    "Pasted image 20220714180412.png",
+    "Cyberattacks Against Intelligent  Transportation Systems.md",
+    "Cyber Security in Cooperative Intelligent Transportation Systems.md",
+    "車輛隨意網路(VANET).md"
+  ]
+}
