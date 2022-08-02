@@ -4,11 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "261e8a8ba2fee61e",
+        "id": "8116f1f20fffa42f",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Cyberattacks Against Intelligent  Transportation Systems.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -49,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 371
+    "width": 100
   },
   "right": {
     "id": "319104bb6bcd6718",
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Cyberattacks Against Intelligent  Transportation Systems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -82,12 +87,15 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "261e8a8ba2fee61e",
+  "active": "8116f1f20fffa42f",
   "lastOpenFiles": [
-    "Security in Intelligent Transport Systems for Smart Cities From Theory to Practice.md",
-    "Pasted image 20220714180412.png",
+    "cyberattacks against ITSs.pdf",
     "Cyberattacks Against Intelligent  Transportation Systems.md",
     "Cyber Security in Cooperative Intelligent Transportation Systems.md",
-    "車輛隨意網路(VANET).md"
+    "Security in Intelligent Transport Systems for Smart Cities From Theory to Practice.md",
+    "Pasted image 20220714173400.png",
+    "Pasted image 20220714170352.png",
+    "車輛隨意網路(VANET).md",
+    "Pasted image 20220714180412.png"
   ]
 }
