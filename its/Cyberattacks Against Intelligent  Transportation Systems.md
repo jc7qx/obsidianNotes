@@ -169,7 +169,7 @@ ITS神經中心架設、監控、操作ITS的控管系統，包括街燈控制�
 * 隔空安裝惡意韌體、遠端綁架車輛控制、傳送不正確/不正當指令至ITS裝置、傳送欺騙的V2I與V2V訊息在DREAD模型下都列為中或低風險，因為這些攻擊都不太容易實施，攻擊者必須具備高超的技能與相關知識才有成功攻擊的可能。
 * 值得注意，利用受損的ITS裝置作為企業網路的進入點被認為是中風險，這是因為需要專家等級的計能及破解企業的資安防護才能達成。
 * 在ITS六大應用系統中，發現交通流量控制系統及付款應用子系統包含很多威脅，因此列為高風險。
-
+----
 
 ### ITS生態系統保全
 防護複雜的ITS生態系統是一件非常困難的任務。根據威脅模型的分析結果可知，網路攻擊對ITS造成最大的攻擊威脅，其次是無線攻擊，最後的實體攻擊。攻擊者可來自國家支助的駭客，犯罪組織，駭客團體，恐怖份子，及內容員工，當然有各種不同的攻擊的原因。資通攻擊與資料洩漏的防護應該是企業每日運作的一部分。終究，對於堅定的對手，沒有任何防禦措施是堅不可摧的
@@ -206,9 +206,11 @@ ITS 生態系統本質上是一個龐大的工業物聯網 (IIoT) 運行環境�
 * 應起草立法來定義自動駕駛汽車的允許運作界線。這些操作界線應包括責任影響政策、事故協議、自動駕駛汽車允許的道德行為、資料收集和記錄、通信、與其他道路使用者的互動等。
 * 應起草立法，規定新的 ITS 裝置、建築和道路車輛在獲得可行駛批准之前必須滿足的最低安全標準（網路和實體）。此外，還必須建立一個認證小組和認證過程，並將其組織起來。
 
-**附件**
+----
 
-車輛連結的技術
+### 附件
+
+**車輛連結的技術**
 * GPS — 全球定位系統 (GPS) 是以地理位置為基礎的導航裝置，全球導航衛星網路提供地面GPS接受器地理位置及時間資訊。連結的車輛使用GPS定位車輛精度達2公尺範圍。
 * RADAR — 雷達距離偵測源自軍用科技。微米波雷達(Millimeter Wave Radar, MMW) 是雙頻(Ka- and W-Band)單脈波(mono-pulse)追蹤雷達。MMW安裝在車輛前端保險上，具有多項功能，如前向避碰及交通感應巡航定速(Adaptive Cruise Control, ACC))
 * Ultrasonic sensors — 超音波感測器監控車輛前後端目標及警示駕駛人有關可能碰撞的物體，同時也提供自動停車及停車位偵測功能。自動或半自動停車時的車輛運動控制來自超音波的資訊。
@@ -216,12 +218,12 @@ ITS 生態系統本質上是一個龐大的工業物聯網 (IIoT) 運行環境�
 * Lane Keep Assist (LKA) — 車道維持輔助系統具備攝影機可偵測車輛偏離車道，LKL將自動修正方向盤改正車輛航向，並保持車輛在車道內。
 * Telematics and OTA services — 遠端訊息服務提供駕駛人道路、交通壅塞、路障、交通事故警示、路況協助、及電子電話(eCall)。隔空(Over-the-Air, OTA)服務可提供更新乳體，更新設定，甚至提供訊息系統的解密鑰匙。遠端訊息及OTA是藉由GPRS, 3G, 或 4G/LTE來實施。
 
-自動車技術
+**自動車技術**
 * LIDAR — 光學雷達，顧名思義就是利用雷射脈波及脈波時距來計算距離，是一種光學測距感測器，此種測距裝置可以在任何天候中偵測路上物件。LIDAR一般用於巡航定速與避碰偵測。 
 * Infrared headlamps — 紅外線頭燈提供夜間視線而不會干擾其他駕駛人眼睛，紅外線訊號光束可以被紅外線攝影機接收，可用於辨識行人及路上的物件。 
 * V2V and V2I communications — 未來連結的車輛及智慧型基礎設施將會以隨意方式(ad-hoc)強制相互通訊，以提供位置、安全警示(如通過十字路口)、及週邊交通等資訊。通訊媒介將使用3G, 4G/LTE, 802.11g/n/p, 802.16...等。無線通訊標準及訊息格式仍在被定義中。
 
-路況回報技術
+**路況回報技術**
 * Bus lane cameras — 大多數大中型城市都有公車專用道系統，在交通高峰時段優先考慮公交車輛。城市使用公車專用道攝影機(Bus lane cameras)對違規者進行拍照/錄影，並對他們處以罰款。
 * High Occupancy Vehicle (HOV) lane cameras — 在交通高峰期，高乘載專用道(HOV lanes)是為有兩個或兩個以上乘員的車輛保留的。高速公路上也有固定的 HOV 車道。城市使用攝影機網路強制執行 HOV 車道，HOV網路攝影機(HOV lane cameras)拍攝違規者的照片/錄影並對其處以罰款。 
 * Red light cameras — 紅燈照相機放置在交通路口，以減少碰撞次數。這些照相機拍攝故意闖紅燈的車輛的照片/錄影，市政府會對其處以罰款。 
@@ -235,36 +237,36 @@ ITS 生態系統本質上是一個龐大的工業物聯網 (IIoT) 運行環境�
 * Emissions/Air quality sensors — 空氣排放品質用於測量道路級別的空氣品質。從健康和安全的角度監測空氣品質非常重要，尤其是在交通繁忙、人口過剩、大型製造區域、商用車流量大等城市。
 * Vehicle location tracking (藉由 GPS, V2I, 目視..等) — 未來的 ITS 基礎設施將支持 V2V 和 V2I 通信，回報車輛位置以改善道路安全。目前，可以通過 ANPR 攝影機進行車輛追踪。商用車輛具有 GPS 追踪器，可向公司車隊控制中心報告車輛位置。
 
-交通流量監控技術
-* Reversible lanes — 根據頂端信號顯示(綠色箭頭或紅色十字)，交通可能向任一方向行駛。可逆車道(Reversible lanes)用於改善高峰時段的交通流量。
-* Railway crossing barriers — 降低公路與鐵路交叉口前的實體屏障(Railway crossing barriers)，以防止火車接近時車輛移動。這些障礙由鐵路軌道的開關控制。
-* Dynamic message signs — 在道路路標架上安裝電子交通標誌，用於向通行者顯示重要信息。這些標誌用於顯示有關交通壅塞、事故或事件、道路工程、限速、等待時間、車道信號等的資訊。
-* Dynamic road surface markers — 用於動態顯示車道標記的路面 LED 標記。可用於調用逆流車道、標記人行穿越道、標記路肩、添加車道，或在惡劣天氣下提高車道能見度。
-* Dynamic road barriers — 與可逆車道信號、鐵路岔道控制、收費系統等結合使用，以降低或提高改變交通流量的實體閘門。
-* Traffic signal control systems — 交通號誌控制系統設置於十字路口，以協調和控制十字路口的交通燈號。交通信號燈經由道路嵌入式感應迴路或路邊感測器和探測器發出的控制信號進行操作；信號通過公共 IP 網路或 VPN 從中央控制發送的信號；或以預設的時間間隔傳遞。
-* Ramp meter — 閘道儀控(Ramp meter)是一個交通信號燈（僅限紅色和綠色）以及一個信號控制器，可根據當前交通狀況調節進入高速公路的交通流量。使用匝道計，管制汽車進入高速公路以減少過度壅塞。
-* Pedestrian detectors — 行人偵測器安裝在十字路口和人行道上，利用其攝影機和感測器於檢測行人。行人檢測系統控制交通信號燈或行人警告燈，例如閃光信標。
-* Bicyclist detectors — 自行車騎士偵測器類似於行人檢測器。檢測器使用攝影機和感測器(例如紅外線)來識別騎自行車的人並將控制信號發送到交通燈號控制系統。
-* Automated toll collection systems — 自動收費站系統是一些動態閘門，允許車輛在支付通行費後通過。自動收費站系統控制收費公路上的交通流量。(不包括使用 ANPR 為車輛計費且沒有門禁控制的自動收費系統)。
-* Emergency vehicle priority system — 緊急車輛優先系統允許緊急車輛，如救火車，救護車，及警車，可以根據響應緊急事件的逕行路徑自動啟動交通號誌時序。經過道路清除使緊急車輛可以快速反應事故。 
+**交通流量監控技術**
+* 可逆車道Reversible lanes — 根據頂端信號顯示(綠色箭頭或紅色十字)，交通可能向任一方向行駛。可逆車道(Reversible lanes)用於改善高峰時段的交通流量。
+* 平交道屏障Railway crossing barriers — 降低公路與鐵路交叉口前的實體屏障(Railway crossing barriers)，以防止火車接近時車輛移動。這些障礙由鐵路軌道的開關控制。
+* 動態訊息標誌Dynamic message signs — 在道路路標架上安裝電子交通標誌，用於向通行者顯示重要信息。這些標誌用於顯示有關交通壅塞、事故或事件、道路工程、限速、等待時間、車道信號等的資訊。
+* 動態路面標誌Dynamic road surface markers — 用於動態顯示車道標記的路面 LED 標記。可用於調用逆流車道、標記人行穿越道、標記路肩、添加車道，或在惡劣天氣下提高車道能見度。
+* 動態道路屏障Dynamic road barriers — 與可逆車道信號、鐵路岔道控制、收費系統等結合使用，以降低或提高改變交通流量的實體閘門。
+* 交通號誌控制系統Traffic signal control systems — 交通號誌控制系統設置於十字路口，以協調和控制十字路口的交通燈號。交通信號燈經由道路嵌入式感應迴路或路邊感測器和探測器發出的控制信號進行操作；信號通過公共 IP 網路或 VPN 從中央控制發送的信號；或以預設的時間間隔傳遞。
+* 閘道儀控Ramp meter — 閘道儀控(Ramp meter)是一個交通信號燈（僅限紅色和綠色）以及一個信號控制器，可根據當前交通狀況調節進入高速公路的交通流量。使用匝道計，管制汽車進入高速公路以減少過度壅塞。
+* 行人偵測器Pedestrian detectors — 行人偵測器安裝在十字路口和人行道上，利用其攝影機和感測器於檢測行人。行人檢測系統控制交通信號燈或行人警告燈，例如閃光信標。
+* 自行車騎士偵測器Bicyclist detectors — 自行車騎士偵測器類似於行人檢測器。檢測器使用攝影機和感測器(例如紅外線)來識別騎自行車的人並將控制信號發送到交通燈號控制系統。
+* 自動收費站系統Automated toll collection systems — 自動收費站系統是一些動態閘門，允許車輛在支付通行費後通過。自動收費站系統控制收費公路上的交通流量。(不包括使用 ANPR 為車輛計費且沒有門禁控制的自動收費系統)。
+* 緊急車輛優先系統Emergency vehicle priority system — 緊急車輛優先系統允許緊急車輛，如救火車，救護車，及警車，可以根據響應緊急事件的逕行路徑自動啟動交通號誌時序。經過道路清除使緊急車輛可以快速反應事故。 
 * 運輸號誌優先系統Transit signal priority (TSP) — 大眾運輸號誌優先系統是一組操作改進，通過延長綠燈或縮短紅燈來減少交通車輛在交通號誌處的等待時間。TSP 可以在單一交叉路口、跨走廊或整個街道系統實施。
 * 自動駕駛車輛安全系統Safety systems for autonomous vehicles — 自動駕駛車輛安全系統是一個沿道路設置的雙向 V2I 通信網路，為自動駕駛車輛提供道路、交通、位置和其他重要資訊。自動駕駛汽車可以根據接收到的資訊改變速度、車輛間隙和行駛路線。
 * 自動駕駛汽車專用車道Dedicated lanes for autonomous vehicles — 為實現自動駕駛汽車，在引入的第一階段將為自動駕駛汽車設置專用車道。這些車道將使用動態訊息標誌、動態路面標記、閘道儀控和閘門控制來強制執行。
 
-付款應用系統技術
+**付款應用系統技術**
 * Radio Frequency Identification (RFID) payments — RFID 晶片嵌入智慧支付卡和車輛貼紙標籤中。這些 RFID 晶片用於對車輛進行識別和計費。
 * 繳款機Kiosk payments — 這些是車站常見的售票機。他們接受 NFC、RFID、信用卡/借支卡和現金支付。可以購買新票，延長舊票，重新加載智慧卡餘額等。
-* Ticket payments — 公車支付系統的實體票卡(扣)。在售票機器發行的門票將有一個磁條或嵌入式 RFID 晶片來驗證門票。線上購買然後打印出來的門票具有快速響應 (QR) 代碼或條形碼，用於驗證掃描。
-* App payments — 智慧型手機應用程式允許用戶購買電子票。用戶在入口處掃描一維條碼或QR碼來驗證電子票。
-* ANPR automatic payments — 執行演算法以便在任何光線和天氣條件下讀取車牌資訊。如果車牌預先設置了計費帳戶，則向該帳戶收費；否則，將向客戶郵寄一份實體賬單，並附上如何付款的說明。
+* 公車票支付系統Ticket payments — 公車支付系統的實體票卡(扣)。在售票機器發行的門票將有一個磁條或嵌入式 RFID 晶片來驗證門票。線上購買然後打印出來的門票具有快速響應 (QR) 代碼或條形碼，用於驗證掃描。
+* 智慧型手機支付App payments — 智慧型手機應用程式允許用戶購買電子票。用戶在入口處掃描一維條碼或QR碼來驗證電子票。
+* 車牌辨識自動繳費ANPR automatic payments — 執行演算法以便在任何光線和天氣條件下讀取車牌資訊。如果車牌預先設置了計費帳戶，則向該帳戶收費；否則，將向客戶郵寄一份實體賬單，並附上如何付款的說明。
 * 動態道路計費Dynamic tolling — 收費道路根據一天中的時間收取不同的費率，即高峰時段的收費較高，非高峰時段的收費較低。收費站正在被 ANPR 支付和 RFID 車輛貼紙標籤所取代。
 * 壅塞區收費Congestion zone charges — 在人口密度高的城市，例如倫敦，市政當局在市中心引入了壅塞區收費，以阻止人們開車進入城市，而是鼓勵他們使用公車交通工具。司機可以購買壅塞區車輛通行證，或者使用 ANPR 自動付款對車輛進行計費。
-* Parkade payments — 停車場支付停車費有多種方式，包括自助繳款機支付、出口收銀台支付、通過 RFID 車輛貼紙支付(適用有停車證持有人)、ANPR 自動支付、智慧型手機應用程式等。
+* 停車場支付Parkade payments — 停車場支付停車費有多種方式，包括自助繳款機支付、出口收銀台支付、通過 RFID 車輛貼紙支付(適用有停車證持有人)、ANPR 自動支付、智慧型手機應用程式等。
 * 路邊停車計費Roadside parking payments — 過去使用硬幣的路邊停車支付現在被電話、智慧型手機應用程式或使用內置信用卡支付處理機器的支付所取代。
 * 貨車收費Freight truck tolls — 卡車過磅站位於高速公路/快速公路上；法律要求商用卡車過磅稱重。這為維護高速公路/快速公路的州創造收入，並確保道路上沒有超重的卡車。
 * 多元運輸支付Multimodal transportation payments — 當今的多元式聯運網絡（公共汽車、火車、地鐵）中，交通當局正在整合單一支付系統。這些是使用帶有嵌入式 RFID 晶片的智慧票卡和紙質票證來實現
 
-管理應用子系統技術
+**管理應用子系統技術**
 * Streetlight controls — Management system for outdoor lighting. Streetlights are normally controlled by ambient light sensors or timers, but the ITS control center can monitor and control streetlights individually or in groups. A streetlight management system helps conserve energy, reduces costs, simplifies maintenance, and allows for centralized monitoring. 
 * Disaster management — These are a set of procedures activated by the ITS control centers when disaster strikes a municipality. Disasters could be natural calamities, freak accidents, terrorist attacks, etc. Disaster management will typically include opening evacuation routes, plans for first responders, public communications plans, and such. 
 * Information sharing services — The ITS ecosystem generates massive amounts of data daily. This data is used across multiple departments for traffic management, for billings, for planning and policy decisions, for creating maintenance schedules, etc. ITS control centers, which are the data collection points, have data sharing services setup for secure and easy access to the data. 
@@ -281,7 +283,7 @@ ITS 生態系統本質上是一個龐大的工業物聯網 (IIoT) 運行環境�
 * Artificial intelligence (AI) and machine learning (ML) applications — AI and ML applications aim to extract value from big data. For ITS, the goal for AI and ML will be to improve system efficiency, traffic flow prediction models, and disaster response modeling, identify future construction opportunities, create new revenue generation models, improve city expansion modeling, reduce cost, etc. This data analysis is crucial to both city planners and government decision-makers. 
 * Road-based location services for autonomous vehicles — To improve the location accuracy of autonomous vehicles, the ITS ecosystem will have land-based GPS transmitters. These transmitters will transmit their exact location as well as other data including traffic, accident/incident information, weather, etc.
 
-通訊應用子系統技術
+**通訊應用子系統技術**
 * Smart apps — The global median for smartphone ownership is 43% and in developed countries, that number increases to more than 50%.44 ITS apps, running on smartphones, are making it easier for users to pay for and use various ITS services. Apps are currently being used for: transit, e-tickets, traffic, car sharing, freight hailing, taxi/limo hailing, parking, trip planning, ride sharing, vehicle diagnostics and management, etc. 
 * Social media — A growing size of the population receives their daily news from social media platforms like Twitter and Facebook. ITS operators routinely update the public with important information such as transit delays, strikes, etc., through social medial platforms. 62 | Cyberattacks Against Intelligent Transportation Systems: Assessing Future Threats to ITS 
 * Company website — In conjunction with social media, company websites also host important user information for ITS services. Additionally, the websites provide services like trip planning, ticket purchase, fine payments, schedules, etc. • Advertisements — Are one of the major revenue streams for ITS providers. Digital advertisements on display screens are slowly supplanting the traditional print and poster advertisements, although print and posters are not expected to disappear completely anytime soon. 
