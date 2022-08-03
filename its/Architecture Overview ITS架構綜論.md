@@ -1,10 +1,14 @@
-協作和智慧型交通架構參考 (ARC-IT) 包括一組互連的元件，可以從四個不同的架構視角來檢視這些元件。
+協作和智慧型交通架構參考 (Architecture Reference for Cooperative and Intelligent Transportation, ARC-IT) 包括一組互連的元件，可以從四個不同的架構視角來檢視這些元件。
 
 ![[Pasted image 20220803170048.png]]
 
 ARC-IT由四個觀點組成
 
-1.  由組織的角度來考量ITS，可以分成關係人組織或企業物件 - 這些人與組織規劃、開發、維運、及使用ITS。定義關係人角色及其相互關聯性。這也是關於ITS的關係人、成員、顧客的要求觀點
-2. 由功能角度來檢視ITS。功能需求用支持ITS使用者的要求。流程與資料劉提供功能與互動的結構化展現。
-5.  [Physical View](https://www.arc-it.net/html/viewpoints/physical.html) defines the physical objects (the systems and devices) that provide ITS functionality. [Information flows](https://www.arc-it.net/html/infoflows/infoflows.html) define the flow of information between [physical objects](https://www.arc-it.net/html/physobjects/physobjects.html). [Functional Objects](https://www.arc-it.net/html/functionalobjects/functionalobjects.html) organize the functionality that is required to support ITS within each physical object.
-6.  [Communications View](https://www.arc-it.net/html/viewpoints/communications.html) defines how physical objects communicate. It defines communications [standards](https://www.arc-it.net/html/standards/standards.html) and [profiles](https://www.arc-it.net/html/comm/profiles.html) that are combined into [communications solutions](https://www.arc-it.net/html/comm/solutions.html) that specify how information can be reliably and securely shared between physical objects.
+1.  由[[企業角度]]來考量ITS，可以分成關係人組織或企業物件 - 這些人與組織規劃、開發、維運、及使用ITS。定義關係人角色及其相互關聯性。這也是關於ITS的關係人、成員、顧客的要求觀點
+2. 由[[功能角度]]來檢視ITS。功能需求用支持ITS使用者的要求。流程與資料劉提供功能與互動的結構化展現。
+3. 由[[實體角度]]來檢視ITS的實體元件用以達成ITS功能性。資訊流定義實體元件之間的資訊流。功能物件組織功能性以支持ITS。
+4. 由**通訊角度**來檢視實體元件間的通訊，定義通訊標準及規格以支持通訊解決方案，說明實體物件間如何可靠與安全地分享資訊。
+
+[[安全]]是21世紀最重要的考量，ITS與ARC-IT全方位地探討安全性，說明ITS安全考量涵蓋四個觀點。
+
+ARC-IT也提供[[服務套件]]作為服務導向進入點，以縱向觀點來檢視ITS。

@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "ac3f268e216654ba",
+        "id": "6da061b8803e5c04",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -87,8 +87,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ac3f268e216654ba",
+  "active": "6da061b8803e5c04",
   "lastOpenFiles": [
+    "功能角度.md",
+    "Architecture Overview ITS架構綜論.md",
     "Cyberattacks Against Intelligent  Transportation Systems.md",
     "FRAME.md",
     "[National.md",
@@ -96,8 +98,6 @@
     "Cyber Security in Cooperative Intelligent Transportation Systems.md",
     "Security in Intelligent Transport Systems for Smart Cities From Theory to Practice.md",
     "Pasted image 20220714173400.png",
-    "Pasted image 20220714170352.png",
-    "車輛隨意網路(VANET).md",
-    "Pasted image 20220714180412.png"
+    "Pasted image 20220714170352.png"
   ]
 }
