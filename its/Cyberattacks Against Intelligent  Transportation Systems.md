@@ -252,11 +252,10 @@ ITS 生態系統本質上是一個龐大的工業物聯網 (IIoT) 運行環境�
 * Dedicated lanes for autonomous vehicles — 為實現自動駕駛汽車，在引入的第一階段將為自動駕駛汽車設置專用車道。這些車道將使用動態訊息標誌、動態路面標記、閘道儀控和閘門控制來強制執行。
 
 付款應用系統技術
-* Radio Frequency Identification (RFID) payments — RFID chips are embedded in smart payment cards and vehicle sticker tags. These RFID chips are used for identifying and billing the vehicles. 
-* RFID 晶片嵌入智慧支付卡和車輛貼紙標籤中。這些 RFID 經片用於對車輛進行識別和計費。
-* Kiosk payments — These are ticket vending machines commonly found at stations. They accept NFC, RFID, credit/debit card, and cash payments. New tickets can be purchased, old ones extended, smart card balances reloaded, etc. 
-* Ticket payments — Transit payment systems support physical tickets. Tickets issued at kiosks will either have a magnetic stripe or embedded RFID chip that validates the ticket. Tickets purchased online and then printed out have a Quick Response (QR) code or barcode for validation scanning. 
-* App payments — Smart phone apps allow users to purchase e-tickets. The user validates the e-ticket by scanning the displayed barcode or QR code at the entry gate.
+* Radio Frequency Identification (RFID) payments — RFID 晶片嵌入智慧支付卡和車輛貼紙標籤中。這些 RFID 晶片用於對車輛進行識別和計費。
+* 繳款機Kiosk payments — 這些是車站常見的售票機。他們接受 NFC、RFID、信用卡/借支卡和現金支付。可以購買新票，延長舊票，重新加載智慧卡餘額等。
+* Ticket payments — 公車支付系統的實體票卡(扣)。在售票機器發行的門票將有一個磁條或嵌入式 RFID 晶片來驗證門票。線上購買然後打印出來的門票具有快速響應 (QR) 代碼或條形碼，用於驗證掃描。
+* App payments — 智慧型手機應用程式允許用戶購買電子票。用戶在入口處掃描一維條碼或QR碼來驗證電子票。
 * ANPR automatic payments — Runs algorithms to read the vehicle’s license plate under any light and weather condition. If there is a billable account setup for the license plate, then that account is charged; else, a physical bill is mailed to the customer with instructions on how to pay. 
 * Dynamic tolling — Tolled roadways charge different rates based on the time of the day, i.e., higher rate during peak hours and cheaper rate during off-peak hours. Tollbooths are being replaced with ANPR payments and RFID vehicle sticker tags. 
 * Congestion zone charges — In cities with high population densities, e.g., London, municipalities have introduced congestion zone charges in the city center to discourage people from driving into the city and instead encourage them to use public transportation. Drivers can purchase congestion zone vehicle passes, or vehicles are billed using ANPR automatic payments. 
