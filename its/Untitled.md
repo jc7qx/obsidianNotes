@@ -1,0 +1,1 @@
+協作式與智慧型交通運輸架構參考模型（The Architecture Reference for Cooperative and Intelligent Transportation, ARC-IT）是美國運輸部支持倡導的架構規範，用於規劃、制定、與整合智慧型交通系統。美國與1996年開始發展美國的ITS架構，隨著技術演進及新ITS功能需求，ITS架構演進至目前的ARC-IT。ARC-IT參考架構的開發主要是協助地區建立ITS系統架構，並協助地區政府瞭解如何能夠將地區性的ITS系統納入上層的交通運輸管理架構中。ARC-IT不僅提供
