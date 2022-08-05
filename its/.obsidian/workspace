@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Untitled.md",
+            "file": "ARC-IT/ARC-IT reference architecture.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "ARC-IT/ARC-IT reference architecture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "6da061b8803e5c04",
   "lastOpenFiles": [
+    "美國ITS架構/Architecture Overview ITS架構綜論.md",
+    "[National.md",
+    "ARC-IT/ARC-IT reference architecture.md",
     "美國ITS架構/功能角度.md",
     "美國ITS架構/企業觀點.md",
-    "美國ITS架構/Architecture Overview ITS架構綜論.md",
     "Cyberattacks Against Intelligent  Transportation Systems.md",
     "FRAME.md",
-    "[National.md",
     "cyberattacks against ITSs.pdf",
     "Cyber Security in Cooperative Intelligent Transportation Systems.md",
-    "Security in Intelligent Transport Systems for Smart Cities From Theory to Practice.md",
-    "Pasted image 20220714173400.png"
+    "Security in Intelligent Transport Systems for Smart Cities From Theory to Practice.md"
   ]
 }
