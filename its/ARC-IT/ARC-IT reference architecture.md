@@ -27,10 +27,10 @@ ARC-IT總共定義389個功能物件，每一個功能物件包含功能描述�
 
 TMC訊號控制所對應的功能需求如下：
 
->01 中心可遠端空制交通號誌控制器
->02 中心可接受行人呼叫的通知
->03 The center shall collect traffic signal controller operational status and compare against the control information sent by the center.
->04 The center shall collect traffic signal controller fault data from the field.
+>01 中心應遠端空制交通號誌控制器
+>02 中心應接受行人呼叫的通知
+>03 中心應收集交通信號控制器的運行狀態，並與中心發送的控制資訊進行比較。
+>04 中心應從現場搜集交通信號控制器故障資料。
 >05The center shall manage (define, store andmodify) control plans to coordinate signalized intersections, to be engaged at the direction of center personnel or according toa daily schedule.
 >06 The center shall implement control plans to coordinate signalized intersections based on data from sensors.
 >07 The center shall manage boundaries of the control sections used within the signal system.
