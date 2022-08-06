@@ -20,3 +20,27 @@ ART-IT有49項交通資子系統（如下圖），資系統間有通訊管道提
 * 支援子系統包含「資料存檔系統」、「認證系統」、「協作式ITS憑證管理系統」、「資料傳送系統」、「識別辨識註冊」、「ITS通訊設備」、「圖資更新系統」、「物件登錄與方線系統」、「服務監督系統」、「支持維護設備」、「廣域資訊傳送器系統」。
 
 以交通訊號控制系統為例，在ARC-IT的架構有２個子系統，分別為交通管理中心(Traffic Management Center)及ITS道路設施。以上二個子系統之間需要有通訊連結以便能交換控制與監控資訊，提供交通號誌控制系統「區域訊號同步」、「幹線網路交通狀況」、及「一系列調控策略」。交通管理中心功能藉由交通管理中的具備的設備來達成，如電腦、交通控制台、視訊交換與顯示系統。ITS道路設備功能藉由道路上的交通號誌控制器與交通燈號、車輛偵測器（如雷達、影像、感應迴路）及攝影機來完成。
+
+ARC-IT總共定義389個功能物件，每一個功能物件包含功能描述及對應的功能需求。以「TMC訊號控制」為例；
+
+>TMC訊號控制提供交通管理員在訊號化的交叉路口監控管理交通車流。須具備分析和減少從交通監控設備收集的資料，及制定和實施信號交叉路口的控制計劃。可以制定和實施控制計劃，在單一交通管理中心的範圍內協調多個交叉路口的信號，並反應交通狀況並適應支持事故、搶占和優先請求、行人過路呼叫等。
+
+TMC訊號控制所對應的功能需求如下：
+
+>01 中心可遠端空制交通號誌控制器
+>02 中心可接受行人呼叫的通知
+>03 The center shall collect traffic signal controller operational status and compare against the control information sent by the center.
+>04 The center shall collect traffic signal controller fault data from the field.
+>05The center shall manage (define, store andmodify) control plans to coordinate signalized intersections, to be engaged at the direction of center personnel or according toa daily schedule.
+>06 The center shall implement control plans to coordinate signalized intersections based on data from sensors.
+>07 The center shall manage boundaries of the control sections used within the signal system.
+>08 The center shall maintain traffic signal coordination including synchronizing clocks throughout the system.
+>09 The center shall implement control plans to coordinate signalized intersections based on data from sensors and connected vehicles.
+>10 The center shall adjust signal timing in respond to a signal prioritization, signal preemption, pedestrian call, multi-modal crossing activation, or other requests for right-of-way.
+>11 The center shall collect commercial vehicle data (e.g., characteristics, route, schedule) for intermodal freightevents.
+>12The center shall adjust signal timing in respond to traffic and environmental parameters at each intersection in real time and adapts sothat the traffic network is optimized using available green time to serve the actual traffic demands while minimizing the environmental impact.
+>13 The center shall process collected traffic and environmental data from sensors and connected vehicles.
+>14The center shall support requests from emergency management centers to provide responding emergency vehicles with signal preemption. 
+>15The center shall monitor, analyze, and store traffic sensor data (speed, volume, occupancy) collected from field elementsat or near signalized intersections.
+>16The center shall maintain a database of traffic sensors and associated data (including the roadway on which they are located, the type of data collected, and the ownership of each)
+>17The center shall remotely control devices to detect traffic in the vicinity of trafficsignals
