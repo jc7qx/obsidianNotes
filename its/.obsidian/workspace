@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Security in Intelligent Transport Systems for Smart Cities From Theory to Practice.md",
+            "file": "Cyber Security in Cooperative Intelligent Transportation Systems.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Security in Intelligent Transport Systems for Smart Cities From Theory to Practice.md",
+                "file": "Cyber Security in Cooperative Intelligent Transportation Systems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,7 @@
   },
   "active": "6da061b8803e5c04",
   "lastOpenFiles": [
+    "Security in Intelligent Transport Systems for Smart Cities From Theory to Practice.md",
     "FRAME.md",
     "Cyberattacks Against Intelligent  Transportation Systems.md",
     "Cyber Security in Cooperative Intelligent Transportation Systems.md",
@@ -97,7 +98,6 @@
     "Pasted image 20220803170048.png",
     "Pasted image 20220802105750.png",
     "Pasted image 20220802101426.png",
-    "Pasted image 20220802101414.png",
-    "Pasted image 20220802101358.png"
+    "Pasted image 20220802101414.png"
   ]
 }
