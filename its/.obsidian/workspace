@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Cyber Security in Cooperative Intelligent Transportation Systems.md",
+            "file": "Cyberattacks Against Intelligent  Transportation Systems.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cyber Security in Cooperative Intelligent Transportation Systems.md",
+                "file": "Cyberattacks Against Intelligent  Transportation Systems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "6da061b8803e5c04",
   "lastOpenFiles": [
-    "figs/Pasted image 20220714170352.png",
     "Cyber Security in Cooperative Intelligent Transportation Systems.md",
+    "figs/Pasted image 20220714173400.png",
+    "figs/Pasted image 20220714170352.png",
     "車輛隨意網路(VANET).md",
     "ARC-IT/ARC-IT reference architecture.md",
     "美國ITS架構/Architecture Overview ITS架構綜論.md",
     "美國ITS架構/企業觀點.md",
     "美國ITS架構/功能角度.md",
     "Security in Intelligent Transport Systems for Smart Cities From Theory to Practice.md",
-    "Kumar2020.md",
-    "FRAME.md"
+    "Kumar2020.md"
   ]
 }
