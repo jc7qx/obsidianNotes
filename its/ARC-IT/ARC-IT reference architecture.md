@@ -44,3 +44,6 @@ TMC訊號控制所對應的功能需求如下：
 >15The center shall monitor, analyze, and store traffic sensor data (speed, volume, occupancy) collected from field elementsat or near signalized intersections.
 >16The center shall maintain a database of traffic sensors and associated data (including the roadway on which they are located, the type of data collected, and the ownership of each)
 >17The center shall remotely control devices to detect traffic in the vicinity of trafficsignals
+
+企業觀點在處理組織和用戶之間的關係，以及這些實體在 ITS 服務中所扮演的角色。實體之間的關係取決於這些實體在提供用戶服務時所扮演的角色。ARC-IT 企業觀點的建構元件是企業物件，是與其他企業物件和/或實體物件互動的組織或個人，以便交換信息、管理或操作系統。
+企業觀點關注企業物件之間的關係，也定義企業物件與實體物件間互動。
