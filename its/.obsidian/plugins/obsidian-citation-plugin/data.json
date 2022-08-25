@@ -5,5 +5,5 @@
   "literatureNoteContentTemplate": "---\ntitle: {{title}}\nauthors: {{authorString}}\nyear: {{year}}\nlink: {{zoteroSelectURI}}\n---\nstatus: #\nlinks:\n\n## 摘要\n\n## 重點\n\n## 相關文獻\n\n\n\n",
   "markdownCitationTemplate": "[@{{citekey}}]",
   "alternativeMarkdownCitationTemplate": "@{{citekey}}",
-  "citationExportPath": "E:/My"
+  "citationExportPath": "E:/ITSCS.json"
 }

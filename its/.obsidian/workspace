@@ -7,8 +7,12 @@
         "id": "6da061b8803e5c04",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Security in Intelligent Transport Systems for Smart Cities From Theory to Practice.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Security in Intelligent Transport Systems for Smart Cities From Theory to Practice.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
