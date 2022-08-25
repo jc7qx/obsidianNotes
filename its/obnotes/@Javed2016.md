@@ -1,4 +1,4 @@
----
+[[@ahmadSystematicApproachCyber2016]]---
 title: Security in Intelligent Transport Systems for Smart Cities: From Theory to Practice
 authors: Muhammad Awais Javed, Wassim Znaidi
 year: 2016
@@ -13,6 +13,4 @@ links:
 
 
 ## 相關文獻：
-
-
 
