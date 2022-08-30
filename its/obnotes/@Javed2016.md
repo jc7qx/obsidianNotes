@@ -19,8 +19,7 @@ links:
 * 美國與歐洲的標準都已臻成熟，提供確實的安全架構與演算法，在這些標準中以橢圓曲線密碼學為基礎的演算法用於數位簽章及ITS訊息加密。特別在數位簽章上，即便橢圓曲線整合加密方案及進階加密標準為預設方法，在加上橢圓曲線數位簽章演算法。
 * 防護各種攻擊威脅改善ITS系統的可靠性，卻也造成計算成本，因為將增加封包大小及在傳送端簽章及加密封包造成的時間延遲，及在接受端需要驗證與解密的時間延遲。
 * 另一方面也會造成服務品質的遺失。安全與服務品質之間的考量也是ITS的整體一部分
-* ITS的核心組成包含車輛(Vehicle)、路邊單元(RSU)、及交通控制中心(TCC)。藉由V2V及V2I通訊可以在ITS核心元件間分享交通及行動資訊。分享的資訊在WAVE標準中稱為基本安全訊息(Basic Safty Message, BSM)，在ETSI標準中稱為協同認知訊息(Cooperative Awareness Messages, CAM)，此外在ETSI標準中還特別定義非集中環境通知訊息(Decentralized Environmental Notification Messages, DENMs)以傳送警告通知。WAVE為Wireless Access for Vehicular Environment美國標準，ESTI為 European Telecommunications Standards Institute歐洲標準，兩種標準都定義ITS應用的完整的網路階層架構包括實體層(MAC/PHY)、網路層(transport and network layer mechanism)、應用層(data traffic at the application layer)、及安全與管理通信協定(security and management procedures)。
-* 
+* ITS的核心組成包含車輛(Vehicle)、路邊單元(RSU)、及交通控制中心(TCC)。藉由V2V及V2I通訊可以在ITS核心元件間分享交通及行動資訊。分享的資訊在WAVE標準中稱為基本安全訊息(Basic Safty Message, BSM)，在ETSI標準中稱為協同認知訊息(Cooperative Awareness Messages, CAM)，此外在ETSI標準中還特別定義非集中環境通知訊息(Decentralized Environmental Notification Messages, DENMs)以傳送警告通知。WAVE為Wireless Access for Vehicular Environment美國標準，ESTI為 European Telecommunications Standards Institute歐洲標準，兩種標準都定義ITS應用的完整的網路階層架構包括實體層(MAC/PHY)、網路層(transport and network layer mechanism)、應用層(data traffic at the application layer)、及安全與管理通信協定(security and management procedures)。 收到CAM後，ITS建立區域動態圖(Local Dynamic Map, LDM)，描述周遭交通的資料庫，運用LDM，車輛可以制定關鍵駕駛決策，RSU可以傳送地理警示通知，TCC可以管理程式交通。LDM掌握車輛的交通認知的精準度。
 
 <h1>Annotations
  (8/25/2022, 6:05:08 PM)</h1> 
