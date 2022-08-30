@@ -53,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 402.5
+    "width": 100
   },
   "right": {
     "id": "319104bb6bcd6718",
@@ -89,15 +89,15 @@
   },
   "active": "8fc3eeb5597335b8",
   "lastOpenFiles": [
+    "Security in Intelligent Transport Systems for Smart Cities From Theory to Practice.md",
+    "non-repudiation.md",
     "obnotes/@Javed2016.md",
     "obnotes/@skorputCyberSecurityCooperative2017.md",
     "obnotes/@ahmadSystematicApproachCyber2016.md",
     "obnotes/@afzalSecurityVehicularAdHoc2020.md",
     "Javed2016.md",
-    "Security in Intelligent Transport Systems for Smart Cities From Theory to Practice.md",
     "Untitled.md",
     "Cyber Security in Cooperative Intelligent Transportation Systems.md",
-    "figs/Pasted image 20220714170352.png",
-    "2020.md"
+    "figs/Pasted image 20220714170352.png"
   ]
 }
