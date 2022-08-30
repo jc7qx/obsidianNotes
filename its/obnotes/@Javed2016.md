@@ -16,6 +16,8 @@ links:
 * ITS系統的概念是車輛間無所不在地連結形成一個車聯網(Internet of Vehicles, IoV)(Javed and Znaidi, 2016, p. 1) 
 * 資料是由路邊單元(RSU)及各種感測器蒐集而來，感測器可以放置在道路、建築物、人體，以建構成智慧程式 (Javed and Znaidi, 2016, p. 1) 
 * ITS的通訊主要有二種模式，一為車輛對車輛(V2V)，另一為車輛對設施(V2I) (Javed and Znaidi, 2016, p. 1-2) 
+* 拒絕服務 (DoS),干擾 (jamming), 竄改廣播(broadcast tampering), 中間人攻擊(man in the middle), Sybil, 竊聽與訊息竄改(eavesdropping and message tampering)是少數幾個一般的資通攻擊，對ITS的車輛造成威脅。
+* 美國與歐洲的標準都已臻成熟，提供確實的安全架構與演算法，在這些標準中以橢圓曲線密碼學為基礎的演算法用於數位簽章及ITS訊息加密。特別在數位簽章上，即便橢圓曲線整合加密方案及進階加密標準為預設方法，在加上橢圓曲線數位簽章演算法。
 
 “Security is a key challenge in the implementation of ITS applications. There exist a plethora of security attacks today that can negatively impact the reliability of ITS applications. Particularly, the ITS security requirements include availability, authenticity, confidentiality, integrity and non-repudiation of the traffic and mobility data. Denial of service (DoS), jamming, broadcast tampering, man in the middle, Sybil, eavesdropping and message tampering are few of the common attacks that pose threat to the safety of vehicles in ITS [11–13].” (Javed and Znaidi, 2016, p. 2) its安全需求及一般的資通攻擊 
 
