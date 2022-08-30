@@ -1,9 +1,9 @@
 {
-  "citationExportFormat": "csl-json",
+  "citationExportFormat": "biblatex",
   "literatureNoteTitleTemplate": "@{{citekey}}",
   "literatureNoteFolder": "obnotes",
-  "literatureNoteContentTemplate": "---\ntitle: ** {{title}} **\nauthors: {{authorString}}\nyear: {{year}}\nlink: {{zoteroSelectURI}}\n---\nstatus: #\nlinks:\n\n## 摘要：\n\n## 重點：\n{{note}}\n\n## 相關文獻：\n\n\n\n",
+  "literatureNoteContentTemplate": "---\ntitle: **{{title}}**\nauthors: {{authorString}}\nyear: {{year}}\nlink: {{zoteroSelectURI}}\n---\nstatus: #\nlinks:\n\n## 摘要：\n\n## 重點：\n{{note}}\n\n## 相關文獻：\n\n\n\n",
   "markdownCitationTemplate": "[@{{citekey}}]",
   "alternativeMarkdownCitationTemplate": "@{{citekey}}",
-  "citationExportPath": "E:/ITSCS.json"
+  "citationExportPath": "C:\\Users\\jc7qx\\OneDrive\\桌面\\ITSCS.bib"
 }

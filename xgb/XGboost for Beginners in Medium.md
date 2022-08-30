@@ -3,6 +3,12 @@ XGBoost is an open source library providing a high-performance implementation of
 Boosting takes a more _iterative_ approach and is still technically an ensemble technique in that many models are combined together to perform the final one, but takes a more clever approach.
 
 Rather than training all of the models in isolation of one another, boosting trains models in succession, with each new model being trained to correct the errors made by the previous ones. Models are added sequentially until no further improvements can be made. The advantage of this iterative approach is that the new models being added are focused on correcting the mistakes which were caused by other models. **Gradient Boosting** specifically is an approach where new models are trained to predict the residuals (i.e errors) of prior models.
+---
+title: Security in Intelligent Transport Systems for Smart Cities: From Theory to Practice
+authors: Muhammad Awais Javed, Wassim Znaidi
+year: 2016
+---
+
 
 install the library
 ```unix
