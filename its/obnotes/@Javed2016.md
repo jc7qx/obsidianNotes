@@ -19,7 +19,9 @@ links:
 * 拒絕服務 (DoS),干擾 (jamming), 竄改廣播(broadcast tampering), 中間人攻擊(man in the middle), Sybil, 竊聽與訊息竄改(eavesdropping and message tampering)是少數幾個一般的資通攻擊，對ITS的車輛造成威脅。
 * ITS的安全要求包含可用性(availability), 真實性(authenticity), 機敏性(confidentiality), 整體性(integrity) and [[non-repudiation]] of the traffic and mobility data. 
 * 美國與歐洲的標準都已臻成熟，提供確實的安全架構與演算法，在這些標準中以橢圓曲線密碼學為基礎的演算法用於數位簽章及ITS訊息加密。特別在數位簽章上，即便橢圓曲線整合加密方案及進階加密標準為預設方法，在加上橢圓曲線數位簽章演算法。
-* 
+* 防護各種攻擊威脅改善ITS系統的可靠性，卻也造成計算成本，因為將增加封包大小及在傳送端簽章及加密封包造成的時間延遲，及在接受端需要驗證與解密的時間延遲。
+* 另一方面也會造成服務品質的遺失。安全與服務品質之間的考量也是ITS的整體一部分
+* ITS的核心組成包含車輛(Vehicle)、路邊單元(RSU)、及交通控制中心(TCC)。藉由V2V及V2I通訊可以在ITS核心元件間分享交通及行動資訊。分享的資訊在WAVE標準中稱為基本安全訊息(Basic Safty Message, BSM)，在ETSI標準中稱為協同認知訊息(Cooperative Awareness Messages, CAM)，此外在ETSI標準中還特別定義非集中環境通知訊息(Decentralized Environmental Notification Messages, DENMs)以傳送警告通知。
 
 “Security is a key challenge in the implementation of ITS applications. There exist a plethora of security attacks today that can negatively impact the reliability of ITS applications. Particularly, the ITS security requirements include availability, authenticity, confidentiality, integrity and non-repudiation of the traffic and mobility data. Denial of service (DoS), jamming, broadcast tampering, man in the middle, Sybil, eavesdropping and message tampering are few of the common attacks that pose threat to the safety of vehicles in ITS [11–13].” (Javed and Znaidi, 2016, p. 2) its安全需求及一般的資通攻擊 
 
