@@ -6,3 +6,8 @@ ETSI TC ITS定義存取、網路、及設備等垂直三層安全架構，網路
 
 ### security headers (安全表頭)
 
+ETSI TS 103 097定義各種安全訊息表頭及格式以確保不同的元件的互動，ITS站台間安全資訊交換。主要的安全訊息表頭為「安全訊息結構」定義如何將一般安全訊息編碼，封裝在GeoNetworking封包中。
+![[Pasted image 20220831144815.png]]
+
+![[Pasted image 20220831145158.png]]
+
