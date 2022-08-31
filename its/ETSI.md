@@ -11,3 +11,11 @@ ETSI TS 103 097定義各種安全訊息表頭及格式以確保不同的元件�
 
 ![[Pasted image 20220831145158.png]]
 
+### Certificate Format
+
+ETSI TS 103 097提出新的驗證格式定義如何針對每一種類型的驗證所需的資訊編碼。
+![[Pasted image 20220831145614.png]]
+
+### Security Profiles
+
+ETSI TS 103 097定義CAM, DENM, 一般訊息, 及驗證等四個主要的security profiles，這些security profiles都針對安全演算法（如[[ECDSA]]或[[ECIES/AES]]）支援。
