@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "obnotes/@Javed2016.md",
+            "file": "ECDSA.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "obnotes/@Javed2016.md",
+                "file": "ECDSA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,9 +89,9 @@
   },
   "active": "6b85b6575b958322",
   "lastOpenFiles": [
+    "A Survey of Intelligent Transportation Systems Security Challenges and Solutions.md",
     "obnotes/@skorputCyberSecurityCooperative2017.md",
     "obnotes/@Javed2016.md",
-    "A Survey of Intelligent Transportation Systems Security Challenges and Solutions.md",
     "車輛隨意網路(VANET).md",
     "ECDSA.md",
     "FRAME.md",
