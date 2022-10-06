@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ECDSA.md",
+            "file": "Security in Intelligent Transport Systems for Smart Cities From Theory to Practice.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ECDSA.md",
+                "file": "Security in Intelligent Transport Systems for Smart Cities From Theory to Practice.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "6b85b6575b958322",
   "lastOpenFiles": [
-    "A Survey of Intelligent Transportation Systems Security Challenges and Solutions.md",
-    "obnotes/@skorputCyberSecurityCooperative2017.md",
+    "ARC-IT/ARC-IT reference architecture.md",
     "obnotes/@Javed2016.md",
-    "車輛隨意網路(VANET).md",
+    "obnotes/@skorputCyberSecurityCooperative2017.md",
+    "Cyberattacks Against Intelligent  Transportation Systems.md",
+    "Cyber Security in Cooperative Intelligent Transportation Systems.md",
+    "A Survey of Intelligent Transportation Systems Security Challenges and Solutions.md",
     "ECDSA.md",
+    "車輛隨意網路(VANET).md",
     "FRAME.md",
-    "non-repudiation.md",
-    "Security in Intelligent Transport Systems for Smart Cities From Theory to Practice.md",
-    "cyberattacks against ITSs.pdf",
-    "Cyberattacks Against Intelligent  Transportation Systems.md"
+    "non-repudiation.md"
   ]
 }
