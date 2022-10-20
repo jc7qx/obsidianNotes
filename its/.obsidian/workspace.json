@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obnotes/@skorputCyberSecurityCooperative2017.md",
+                "file": "Mahmood2021.md",
                 "mode": "source",
                 "source": false
               }
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "obnotes/@skorputCyberSecurityCooperative2017.md",
+                "file": "Mahmood2021.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +113,7 @@
   },
   "active": "e27a8ce83faf919e",
   "lastOpenFiles": [
+    "obnotes/@skorputCyberSecurityCooperative2017.md",
     "obnotes/@Javed2016.md",
     "TER.md",
     "Security in Intelligent Transport Systems for Smart Cities From Theory to Practice.md",
@@ -121,7 +122,6 @@
     "FRAME.md",
     "ETSI.md",
     "ECDSA.md",
-    "Cyberattacks Against Intelligent  Transportation Systems.md",
-    "Cyber Security in Cooperative Intelligent Transportation Systems.md"
+    "Cyberattacks Against Intelligent  Transportation Systems.md"
   ]
 }
