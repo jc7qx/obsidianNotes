@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cyberattacks Against Intelligent  Transportation Systems.md",
+                "file": "Security in Intelligent Transport Systems for Smart Cities From Theory to Practice.md",
                 "mode": "source",
                 "source": false
               }
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cyberattacks Against Intelligent  Transportation Systems.md",
+                "file": "Security in Intelligent Transport Systems for Smart Cities From Theory to Practice.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,15 +110,15 @@
   },
   "active": "e27a8ce83faf919e",
   "lastOpenFiles": [
-    "A Survey of Intelligent Transportation Systems Security Challenges and Solutions.md",
+    "priyanka2020.md",
+    "Mahmood2021.md",
+    "non-repudiation.md",
     "Cyber Security in Cooperative Intelligent Transportation Systems.md",
+    "A Survey of Intelligent Transportation Systems Security Challenges and Solutions.md",
     "Cyberattacks Against Intelligent  Transportation Systems.md",
     "ECDSA.md",
     "ETSI.md",
     "FRAME.md",
-    "Mahmood2021.md",
-    "obnotes/@skorputCyberSecurityCooperative2017.md",
-    "obnotes/@Javed2016.md",
-    "TER.md"
+    "obnotes/@skorputCyberSecurityCooperative2017.md"
   ]
 }
