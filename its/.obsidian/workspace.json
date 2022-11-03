@@ -11,8 +11,12 @@
             "id": "e1c8948ce0e640b3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Mahmood2021.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -91,7 +95,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "67ee1442f6c26372",
+  "active": "e1c8948ce0e640b3",
   "lastOpenFiles": [
     "Security in Intelligent Transport Systems for Smart Cities From Theory to Practice.md",
     "priyanka2020.md",
