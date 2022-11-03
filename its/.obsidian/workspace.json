@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mahmood2021.md",
+                "file": "會談.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mahmood2021.md",
+                "file": "會談.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,15 +97,15 @@
   },
   "active": "e1c8948ce0e640b3",
   "lastOpenFiles": [
+    "最佳化鏈路狀態路由協定.md",
+    "洪氾.md",
+    "車輛隨意網路(VANET).md",
+    "A Survey of Intelligent Transportation Systems Security Challenges and Solutions.md",
     "Security in Intelligent Transport Systems for Smart Cities From Theory to Practice.md",
     "priyanka2020.md",
-    "Mahmood2021.md",
     "non-repudiation.md",
+    "Mahmood2021.md",
     "Cyber Security in Cooperative Intelligent Transportation Systems.md",
-    "A Survey of Intelligent Transportation Systems Security Challenges and Solutions.md",
-    "Cyberattacks Against Intelligent  Transportation Systems.md",
-    "ECDSA.md",
-    "ETSI.md",
-    "FRAME.md"
+    "Cyberattacks Against Intelligent  Transportation Systems.md"
   ]
 }
