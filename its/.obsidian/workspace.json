@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "會談.md",
+                "file": "Mahmood2021.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "會談.md",
+                "file": "Mahmood2021.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +97,7 @@
   },
   "active": "e1c8948ce0e640b3",
   "lastOpenFiles": [
+    "會談.md",
     "最佳化鏈路狀態路由協定.md",
     "洪氾.md",
     "車輛隨意網路(VANET).md",
@@ -105,7 +106,6 @@
     "priyanka2020.md",
     "non-repudiation.md",
     "Mahmood2021.md",
-    "Cyber Security in Cooperative Intelligent Transportation Systems.md",
-    "Cyberattacks Against Intelligent  Transportation Systems.md"
+    "Cyber Security in Cooperative Intelligent Transportation Systems.md"
   ]
 }
